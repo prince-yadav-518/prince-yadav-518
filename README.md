@@ -12,6 +12,8 @@ MERN Stack Developer | Final Year CS Student
 📂 Projects  
 ✅ Institute Management System (MERN)  
 ✅ Study sync
+✅ Blog Application
+✅ Portfolio
 
 🌱 Currently Learning  
 - Advanced React  

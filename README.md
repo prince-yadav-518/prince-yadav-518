@@ -1,19 +1,37 @@
 ## Hi 👋 I'm Prince Yadav  
 
-MERN Stack Developer | Final Year CS Student  
+MERN Stack Developer | React.js | Node.js | MongoDB  
+Final Year Computer Science Student  
+Building Full Stack Web Applications
+
 
 🚀 Skills  
-- React  
-- Node.js  
-- Express  
-- MongoDB  
-- HTML CSS JavaScript  
+• Frontend: HTML, CSS, Tailwind, JavaScript, React.js
+• Backend: Node.js, Express.js, RESTful APIs
+• Database: MongoDB
+• Tools: Git, GitHub, Visual Studio Code, Postman
 
-📂 Projects  
-✅ Institute Management System (MERN)  
-✅ Study sync
-✅ Blog Application
-✅ Portfolio
+
+📂 Projects
+
+1️⃣ Institute Management System (MERN)
+• Student management
+• Authentication system
+• Dashboard for admin
+
+2️⃣ Blog Application
+• Create, edit, delete posts
+• User authentication
+• REST API
+
+3️⃣ Study Sync
+• Notes sharing platform for students
+
+4️⃣ Portfolio Website
+• Showcases my projects and skills
+• Responsive UI
+• Contact section
+
 
 🌱 Currently Learning  
 - Advanced React  
